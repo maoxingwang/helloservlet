@@ -4,9 +4,16 @@
 -----------------------
    
     
-   *   Import this project from  https://github.com/maoxingwang/helloservlet using Eclipse IDE. <br>
-   *   Add this projet to the tomcat and start the tomcat. <br>
-   *   Then you can visit the project by  url “http://localhost:8080/test/hello”.   <br>
-    
+   * 1.  Import this project from  https://github.com/maoxingwang/helloservlet using Eclipse IDE. <br>
+         When you finished the first step, you may meet the following problems:
+         
+         
+   * 2.  Add this projet to the tomcat and start the tomcat. <br>
+         
+   * 3. Then you can visit the project by  url “http://localhost:8080/test/hello”.   <br>
+   
+         
     Note: This project should be deployed on jdk 1.8 or newer and tomcat v8.0 or newer. 
+    
+    
     

@@ -2,6 +2,7 @@
 # How to build and run this project? <br>
 
 -----------------------
+You need three steps:
    
   *  1.  Import this project from  https://github.com/maoxingwang/helloservlet using Eclipse IDE. <br>
    

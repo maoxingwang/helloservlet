@@ -7,7 +7,7 @@
    * 1.  Import this project from  https://github.com/maoxingwang/helloservlet using Eclipse IDE. <br>
    
          Note that :When you finished the first step, you may meet the following problems:
-         ![image](https://github.com/maoxingwang/helloservlet/blob/master/aa.PNG)
+         ![image](https://github.com/maoxingwang/helloservlet/blob/master/aa.PNG) <br>
          
    * 2.  Add this projet to the tomcat and start the tomcat. <br>
          

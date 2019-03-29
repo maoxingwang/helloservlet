@@ -23,10 +23,15 @@ public class HelloServlet extends HttpServlet {
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		
+		
 		System.out.println("hello");
 		req.setCharacterEncoding("UTF-8");  
         resp.setContentType("text/html;charset=utf-8");
         req.getRequestDispatcher("index.jsp").forward(req , resp); 
+        
+        
+        
 	}
 	
 
